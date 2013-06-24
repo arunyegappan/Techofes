@@ -1,0 +1,3 @@
+<div class="enable">
+<a href="#" onclick="changeclick('click')" title='do you find it difficult to use? click here to enable clicking'>Enable Clicking</a>
+</div>

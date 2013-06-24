@@ -1,0 +1,69 @@
+
+<?php
+include("sess.txt");
+?>
+
+<?php
+
+if(!(isset($_GET['click'])))
+{
+echo '
+<div id="homepage">
+<div id="t_eventname">
+<h1>Fun Mania</h1>';
+
+include("funmanialist.txt");
+
+echo '
+</div>';
+}
+?>
+
+<div id="t_eventdetails">
+
+<div id="t_ename_m">
+<h1>Nanbaenda</h1>
+</div>
+<br>
+<br>
+
+<div id="t_eimage">
+<?php
+include("crossnanbaenda.txt");
+?>
+</div>
+
+<div id="t_etabs">
+
+<ul>
+<li ><a href="nanbaenda/home.txt" rel='det' id="det" class="deta">Home</a></li>
+<li><a href="nanbaenda/rules.txt" rel='det' id="det" class="detb">Rules</a></li>
+<li><a href="nanbaenda/faq.txt" rel='det' id="det" class="detc">FAQ</a></li>
+<li><a href="nanbaenda/rounds.txt" rel='det' id="det" class="detd">Rounds</a></li>
+<li><a href="nanbaenda/contact.txt" rel='det' id="det" class="dete">Contact</a></li>
+
+
+
+
+
+</ul>
+
+
+</div>
+
+
+<div id="t_edetails">
+<?php include("nanbaenda/home.txt"); ?>
+</div>
+
+</div>
+
+<!-- event detais ends-->
+<?php
+
+if(!(isset($_GET['click'])))
+{
+echo '
+</div>
+<!-- homepage ends-->';
+} ?>

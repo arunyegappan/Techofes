@@ -1,0 +1,8 @@
+<ul>
+<li>The tasks should be completed within a specific time limit.</li>
+<li>All requirements will be provided.</li>
+<li>On the spot registration. First come First serve basis.</li>
+<li>Loop holes will not be entertained.</li>
+<li>Further details will be given on the day of the event.</li>
+<li>Judges decision is final and binding.</li>
+<ul>

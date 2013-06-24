@@ -1,0 +1,3 @@
+<div class="enable">
+<a href="#" onclick="changeclick('no')" title='Bored of clicking? experience something new!! click to disable clicking.'>Disable Clicking</a>
+</div>

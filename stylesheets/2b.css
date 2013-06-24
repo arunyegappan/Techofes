@@ -1,0 +1,676 @@
+@font-face
+{
+font-family: Freshman;
+src: url('Freshman.ttf')
+    
+}
+@font-face
+{
+font-family: Goodwill;
+src: url('goodwill.otf')
+    
+}
+@font-face
+{
+font-family: Material Sans;
+src: url('Material_Sans.ttf')
+}
+
+@font-face
+{
+font-family: BigNoodleTitling;
+src: url('big_noodle_titling.ttf')
+    
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+background-color:black;
+
+
+
+}
+
+
+
+
+
+.t_maintop
+{
+width:1200px;
+margin: 0;
+padding: 0;
+height:175px;
+background-repeat:no-repeat;
+
+ position:relative;
+
+}
+
+.t_leftmenu
+{
+position:relative;
+left:-65px;
+top:-5px;
+float:left;
+margin-top:10px;
+}
+
+.t_leftmenu ul
+{
+list-style:none;
+
+
+}
+
+.t_leftmenu li
+{
+float:left;
+
+
+}
+.t_leftmenu a
+{
+text-decoration:none;
+font-size:18px;
+color:gold;
+margin-left:25px;
+margin-right:40px;
+font-family: BigNoodleTitling;
+
+}
+
+
+
+.linka
+{
+position:relative;
+left:45px;
+}
+
+.linkb
+{
+position:relative;
+left:35px;
+}
+.linkc
+{
+position:relative;
+left:25px;
+}
+
+.linkd
+{
+position:relative;
+left:25px;
+}
+
+.linke
+{
+position:relative;
+left:10px;
+}
+
+.linkf
+{
+position:relative;
+left:-20px;
+}
+
+.linkg
+{
+position:relative;
+left:-30px;
+}
+
+
+.t_rightmenu
+{
+
+float:left;
+margin-top:20px;
+}
+
+.t_rightmenu ul
+{
+list-style:none;
+
+height:25px;
+}
+
+.t_rightmenu li
+{
+float:left;
+}
+.t_rightmenu a
+{
+text-decoration:none;
+font-size:20px;
+color:white;
+margin-left:20px;
+margin-right:40px;
+font-family: Freshman;
+}
+
+
+
+.t_logo
+{
+margin-top:10px;
+margin-left:0px;
+margin-right:20px;
+float:left;
+
+}
+
+
+#t_eventtabs
+{
+clear:both;
+
+position:relative;
+top:0px;
+margin-left:338px;
+
+}
+
+
+
+#t_eventtabs a
+{
+float:left;
+margin-left:18px;
+
+
+}
+
+#content
+{
+
+height:700px;
+position:relative;
+clear:both;
+
+}
+
+#side
+{
+float:left;
+margin-left:50px;
+}
+
+.seltheme h2
+{
+color:white;
+}
+
+.seltheme img
+{
+float:left;
+margin-left:8px;
+
+Cursor: pointer;
+}
+
+
+
+#updates
+{
+height:200px;
+width:150px;
+
+background-image:url("../images/hupdate.png");
+
+}
+
+
+
+#homepage
+{
+clear:both;
+width:930px;
+
+height:700px;
+float:left;
+}
+
+#soon
+{
+color:white;
+margin-left:400px;
+margin-top:250px;
+}
+
+#t_name
+{
+position:relative;
+font-family: Freshman;
+margin-left:450px;
+color:white;
+}
+
+#para1
+{
+color:white;
+font-family: Material Sans;
+position:relative;
+margin-right:20px;
+text-align:justify;
+margin-left:20px;
+font-size:17px;
+}
+
+#slides
+{
+
+}
+#t_eventname
+{
+margin-top:0px;
+float:left;
+position:relative;
+left:-20px;
+font-family: BigNoodleTitling;
+margin-right:70px;
+}
+
+#t_eventname ul
+{
+list-style:none;
+
+
+}
+
+#t_eventname li
+{
+height:25px;
+width:155px;
+background-image:url("../images/tabf.png");
+
+
+margin-top:0px;
+
+}
+
+#t_eventname li:hover
+{
+
+color:white;
+
+}
+
+#t_eventname a
+{
+font-family: BigNoodleTitling;
+text-decoration:none;
+color:white;
+font-size:17px;
+margin-left:25px;
+position:relative;
+top:5px;
+}
+
+#t_eventname h1
+{
+margin-left:50px;
+color:white;
+text-shadow: 2px 2px black;
+}
+
+
+#t_eventdetails
+{
+float:left;
+margin-left:0px;
+width:620;
+
+}
+.long
+{
+font-size:17px;
+}
+
+#t_ename
+{
+margin-left:150px;
+color:white;
+text-shadow: 1px 1px black;
+}
+
+#t_ename_m
+{
+margin-left:200px;
+color:white;
+text-shadow: 1px 1px black;
+}
+
+#t_ename_sm
+{
+margin-left:250px;
+color:white;
+text-shadow: 1px 1px black;
+}
+
+#t_eimage
+{
+
+}
+#t_etabs
+{
+
+clear:both;
+
+}
+#t_etabs ul
+{
+list-style:none;
+position:relative;
+
+}
+
+#t_etabs li
+{
+float:left;
+margin-right:22px;
+
+
+}
+
+#t_etabs a
+{
+font-size:21px;
+text-decoration:none;
+color:white;
+
+}
+
+#t_edetails
+{
+clear:both;
+text-align:justify;
+font-size:17px;
+margin-top:70px;
+color:white;
+font-family: Material Sans;
+}
+
+.saaslogo
+{
+margin-left:100px;
+}
+
+.about
+{
+width:870px;
+text-align:justify;
+margin-left:30px;
+color:white;
+font-family: Material Sans;
+}
+
+#techofes
+{
+opacity:0.5;
+}
+
+#arun
+{
+color:white;
+}
+
+#arun:hover
+{
+color:yellow;
+}
+
+#det
+{
+color:green;
+}
+
+#eve
+{
+color:white;
+}
+
+.footer
+{
+
+clear:both;
+height:75px;
+padding-top:15px;
+color:white;
+}
+
+#flinks
+{
+position:relative;
+float:left;
+margin-left:30px;
+}
+
+#flinks a
+{
+
+text-decoration:none;
+float:left;
+margin-left:20px;
+margin-right:20px;
+color:green;
+margin-top:10px;
+
+}
+
+#flinks a:hover
+{
+color:red;
+}
+.shortcuts
+{
+float:left;
+margin-left:10px;
+}
+.shortcuts a
+{
+margin-left:10px;
+}
+
+.copyright
+{
+float:left;
+margin-left:70px;
+}
+.copyright a
+{
+color:red;
+text-decoration:none;
+}
+
+.copyright #cpy
+{
+margin-left:30px;
+}
+
+.browsers
+{
+float:right;
+}
+
+.browsers img
+{
+float:left;
+margin-right:10px;
+}
+
+
+.enable
+{
+height:30px;
+width:175px;
+background-color:black;
+}
+
+.enable a
+{
+text-decoration:none;
+font-size:20px;
+position:relative;
+top:4px;
+margin-left:25px;
+animation:myfirst 2s; 
+-moz-animation:myfirst 2s; /* Firefox */
+-webkit-animation:myfirst 2s; /* Safari and Chrome */
+-o-animation:myfirst 2s; /* Opera */
+
+animation-iteration-count: infinite;
+-webkit-animation-iteration-count: infinite;
+-moz-animation-iteration-count: infinite;
+-o-animation-iteration-count: infinite;
+
+
+}
+
+#t_whole
+{
+margin-left:auto;
+margin-right:auto;
+width:1200px;
+background-image:url("../images/jeanfin.jpg");
+
+background-repeat:no-repeat;
+}
+
+
+.sidelink
+{
+height:30px;
+width:175px;
+background-color:black;
+}
+
+.sidelink a
+{
+text-decoration:none;
+font-size:20px;
+position:relative;
+top:4px;
+margin-left:60px;
+color:white;
+}
+
+@keyframes myfirst
+{
+from{color:green;}
+to {color:yellow;}
+}
+
+@-moz-keyframes myfirst /* Firefox */
+{
+from {color:green;}
+to {color:red;}
+}
+
+@-webkit-keyframes myfirst /* Safari and Chrome */
+{
+from{color:green;}
+to {color:yellow;}
+}
+
+@-o-keyframes myfirst /* Opera */
+{
+from {color:green;}
+to {color:red;}
+}
+
+.loadimg
+{
+margin-left:450px;
+margin-top:150px;
+}
+
+
+.loadimg2
+{
+margin-left:250px;
+margin-top:150px;
+}
+
+
+
+.loadimg3
+{
+margin-left:250px;
+margin-top:40px;
+}
+
+#clist
+{
+float:left;
+
+}
+
+#clist ul
+{
+list-style-type:none;
+}
+
+
+
+#clist li
+{
+cursor:hand;
+height:20px;
+width:200px;
+margin-top:20px;
+color:gold;
+
+
+}
+
+#cdetails h1
+{
+color:gold;
+}
+
+#cdetails
+{
+float:left;
+margin-left:20px;
+font-family: Material Sans;
+height:500px;
+width:600px;
+margin-top:20px;
+color:white;
+
+}
+
+#con
+{
+color:gold;
+}
+
+#heading h1
+{
+
+color:white;
+}
+
+#cent
+{
+margin-left:250px;
+}
+
+#lef
+{
+float:left;
+}
+
+#rig
+{
+margin-left:400px;
+}

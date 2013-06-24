@@ -1,0 +1,70 @@
+
+<?php
+include("sess.txt");
+?>
+
+<?php
+
+if(!(isset($_GET['click'])))
+{
+echo '
+<div id="homepage">
+<div id="t_eventname">
+<h1>Talent Treasure</h1>';
+
+include("talenttreasurelist.txt");
+
+echo '
+</div>';
+}
+?>
+
+<div id="t_eventdetails">
+
+<div id="t_ename_m">
+<h1>Adact</h1>
+</div>
+<br>
+<br>
+
+
+<div id="t_eimage">
+<?php
+   include("crossadact.txt");
+   ?>
+</div>
+
+<div id="t_etabs">
+
+<ul>
+<li ><a href="adact/home.txt" rel='det' id="det" class="deta">Home</a></li>
+<li><a href="adact/rules.txt" rel='det' id="det" class="detb">Rules</a></li>
+<li><a href="adact/criteria.txt" rel='det' id="det" class="detc">Criteria</a></li>
+
+<li><a href="adact/contact.txt" rel='det' id="det" class="dete">Contact</a></li>
+
+
+
+
+
+</ul>
+
+
+</div>
+
+
+<div id="t_edetails">
+<?php include("adact/home.txt"); ?>
+</div>
+
+</div>
+
+<!-- event detais ends-->
+<?php
+
+if(!(isset($_GET['click'])))
+{
+echo '
+</div>
+<!-- homepage ends-->';
+} ?>

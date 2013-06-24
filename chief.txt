@@ -1,0 +1,41 @@
+<div id="heading">
+
+<h1>Chief Organisers</h1>
+
+<div id="cent">
+<h3>CEO</h3>
+Manikandan <br> 9003997073 <br> ceo@techofes.org
+</div>
+
+
+<div id="lef">
+<h3>Executive director</h3>
+Ganesh Pandiyan <br> 9659182616 <br> ed@techofes.org
+</div>
+
+
+<div id="rig">
+<h3>Executive director</h3>
+Ramasamy <br> 9488566622 <br> ed@techofes.org
+</div>
+
+<div id="cent">
+<h3>Executive director</h3>
+Vijay Prashad <br> 9444254424 <br> ed@techofes.org
+</div>
+
+
+
+<div id="lef">
+<h3>Executive director</h3>
+Raveen Sundar <br> 
+9566535516  <br>
+ed@techofes.org
+</div>
+
+<div id="rig">
+<h3>Executive director</h3>
+Rohit <br> 9566841324 <br> ed@techofes.org
+</div>
+
+</div>

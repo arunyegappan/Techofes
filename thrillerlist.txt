@@ -1,0 +1,16 @@
+<?php
+include("sess.txt");
+include("bgsess.txt");
+
+?>	
+<ul>
+<li ><a href="material.php" rel='eve' id="eve" class="evea">Material Hunt</a></li>
+<li><a href="treasure.php" rel='eve' id="eve" class="eveb">Treasure Hunt</a></li>
+<li><a href="daretodare.php" rel='eve' id="eve" class="evec">Dare To Dare</a></li>
+<li><a href="sherlock.php" rel='eve' id="eve" class="eved">Sherlock</a></li>
+
+<li><a href="baanakathadi.php" rel='eve' id="eve" class="evee">Baana Kathadi</a></li>
+</ul>
+
+ 
+   

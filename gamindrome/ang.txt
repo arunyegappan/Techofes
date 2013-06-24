@@ -1,0 +1,6 @@
+1.Game will be conducted as FOUR sessions.<br>
+2.Each session will have different levels, that will be selected by the organiser.<br>
+3.All contestants will be given only one chance to set his/her best score.<br>
+4.At the end of each session the contestant with highscore is selected to the final level.<br>
+5.In finals the contestant will given TWO chances to set his/her best score.<br>
+6.The contestant with High score is announced as the WINNER.

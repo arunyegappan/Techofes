@@ -1,0 +1,31 @@
+
+<div id="heading">
+
+<h1>Marketing Team</h1>
+
+<div id="cent">
+<h3>Core Head</h3>
+selvakumar <br> 9688004712<br> marketing@techofes.org
+</div>
+<br>
+<br>
+<div id="lef">
+
+deepak <br> 9840069712
+</div>
+
+<div id="rig">
+
+ebinesan<br>9677382223
+
+
+</div>
+<br><br>
+<div id="cent">
+
+prasanna<br> 9677183082
+
+</div>
+
+
+</div>

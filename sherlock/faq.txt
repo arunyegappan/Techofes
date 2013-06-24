@@ -1,0 +1,12 @@
+<div class="long">
+<ul>
+<li>What do I need to know to participate in this event?
+<br>If you have a fascination for crime solving and interested in logical reasoning, you are most welcome.
+</li>
+<br>
+<li>Suppose I ask only 3 questions to a suspect, then move to another, can I come back to shoot my remaining questions?
+<br>No way. Not allowed. No back tracking.</li>
+<li>How do I know if the answers given by suspects are genuine?<br>3 answers will be true. The other 2 may or may not be. It's up-to you to decide.</li>
+<li>I still have doubts. How can i clarify?<br>Disturb us.See contacts tab</li>
+</ul>
+</div>

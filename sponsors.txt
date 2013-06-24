@@ -1,0 +1,25 @@
+<?php
+include("sess.txt");
+include("bgsess.txt");
+?>	
+
+<div id="homepage">
+
+<div id="t_eventname">
+<h1>Sponsors</h1>
+<ul>
+<li ><a href="titlesp.txt" rel='spo' id="spon" class="spoa">Title Sponsors</a></li>
+<li ><a href="othersp.txt" rel='spo' id="spon" class="spob">Other Sponsors</a></li>
+
+</ul>
+
+ 
+ </div>
+ 
+ 
+ <div id="t_spons">
+ <h2>Previous sponsors</h2>
+<img src="images/full-sponsor.jpg" draggable="false"/>
+ </div>
+ 
+</div>

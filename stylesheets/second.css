@@ -1,0 +1,857 @@
+@font-face
+{
+font-family: Freshman;
+src: url('Freshman.ttf')
+    
+}
+@font-face
+{
+font-family: Geogrotesque UlLg;
+src: url('geo.otf')
+    
+}
+@font-face
+{
+font-family: Franchise;
+src: url('franchise.ttf')
+    
+}
+@font-face
+{
+font-family: Goodwill;
+src: url('goodwill.otf')
+    
+}
+
+@font-face
+{
+font-family: Material Sans;
+src: url('Material_Sans.ttf')
+}
+
+
+
+@font-face
+{
+font-family: BigNoodleTitling;
+src: url('big_noodle_titling.ttf')
+    
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+background-color:black;
+
+font-family: Geogrotesque UlLg;
+
+}
+
+
+
+
+
+.t_maintop
+{
+width:1200px;
+margin: 0;
+padding: 0;
+height:150px;
+background-repeat:no-repeat;
+
+
+ position:relative;
+
+}
+
+.techholder
+{
+width:1200px;
+margin: 0;
+padding: 0;
+height:160px;
+background-repeat:no-repeat;
+background: url(../images/jeanlogo.png) repeat 5% 5%;
+
+ position:relative;
+}
+
+.t_leftmenu
+{
+position:relative;
+left:95px;
+top:-20px;
+float:left;
+margin-top:20px;
+color:gainsboro;
+}
+
+.t_leftmenu ul
+{
+list-style:none;
+
+
+}
+
+.t_leftmenu li
+{
+float:left;
+
+
+}
+.t_leftmenu a
+{
+text-decoration:none;
+font-size:14px;
+color:gainsboro;
+margin-left:20px;
+margin-right:40px;
+
+
+}
+
+#background {
+
+	background-image:url("../images/jeanh.jpg");
+	position: absolute;
+	top: 0; left: 0; right: 0; bottom: 0;
+	z-index: 100;
+	height:150px;width:1200px;
+}
+
+.linka
+{
+position:relative;
+left:30px;
+}
+
+.linkb
+{
+position:relative;
+left:55px;
+}
+.linkc
+{
+position:relative;
+left:70px;
+}
+
+.linkd
+{
+position:relative;
+left:210px;
+}
+
+.linke
+{
+position:relative;
+left:220px;
+}
+
+.linkf
+{
+position:relative;
+left:230px;
+}
+
+.linkg
+{
+position:relative;
+left:0px;
+}
+
+
+.t_rightmenu
+{
+
+float:left;
+margin-top:20px;
+}
+
+.t_rightmenu ul
+{
+list-style:none;
+
+height:25px;
+}
+
+.t_rightmenu li
+{
+float:left;
+}
+.t_rightmenu a
+{
+text-decoration:none;
+font-size:20px;
+color:gainsboro;
+margin-left:20px;
+margin-right:40px;
+
+}
+
+
+
+.t_logo
+{
+margin-top:10px;
+margin-left:0px;
+margin-right:20px;
+float:left;
+
+}
+
+
+#t_eventtabs
+{
+clear:both;
+color:gainsboro;
+position:relative;
+top:70px;
+
+
+}
+
+
+
+#t_eventtabs a
+{
+float:left;
+margin-left:50px;
+text-decoration:none;
+Font-size:16px;
+color:gainsboro;
+
+
+}
+
+
+
+#content
+{
+
+height:615px;
+position:relative;
+clear:both;
+background-image:url("../images/jeanbg.jpg");
+
+}
+
+#side
+{
+float:left;
+margin-left:22px;
+margin-top:130px;
+}
+
+.seltheme h2
+{
+color:gainsboro;
+}
+
+.seltheme img
+{
+float:left;
+margin-left:8px;
+
+Cursor: pointer;
+}
+
+
+
+#updates
+{
+height:200px;
+width:150px;
+
+background-image:url("../images/hupdate.png");
+
+}
+
+#div_display
+{
+float:left;
+height:200px;
+width:155px;
+color:white;
+font-size:15px;
+margin-left:10px;
+margin-top:50px;
+
+padding-left:5px;
+padding-right:3px;
+
+}
+
+#div_display a
+{
+text-decoration:none;
+color:red;
+}
+
+#centralholder
+{
+float:left;
+width:750px;
+margin-left:40px;
+}
+
+
+#para1
+{
+color:gainsboro;
+
+position:relative;
+margin-right:20px;
+text-align:justify;
+margin-left:20px;
+font-size:17px;
+
+}
+
+#homepage
+{
+clear:both;
+width:1000px;
+
+height:615px;
+float:left;
+}
+
+#soon
+{
+color:gainsboro;
+margin-left:400px;
+margin-top:250px;
+}
+
+#t_name
+{
+position:relative;
+
+margin-left:450px;
+top:15px;
+font-size:15px;
+color:gainsboro;
+}
+
+
+#t_name_s
+{
+position:relative;
+
+margin-left:490px;
+top:11px;
+font-size:15px;
+color:gainsboro;
+}
+
+
+#slides
+{
+position:relative;
+left:30px;
+
+
+}
+#t_eventname
+{
+margin-top:60px;
+float:left;
+position:relative;
+left:-20px;
+
+margin-right:60px;
+}
+
+#t_eventname ul
+{
+list-style:none;
+
+
+}
+
+#t_eventname li
+{
+height:25px;
+width:155px;
+background-image:url("../images/jleft.png");
+
+margin-top:0px;
+
+}
+
+#t_eventname li:hover
+{
+
+color:gainsboro;
+
+}
+
+#t_eventname a
+{
+
+text-decoration:none;
+color:white;
+font-size:15px;
+margin-left:25px;
+position:relative;
+top:3px;
+}
+
+#t_eventname h1
+{
+margin-left:40px;
+color:gainsboro;
+font-size:23px;
+
+}
+
+
+#t_eventdetails
+{
+float:left;
+
+width:700;
+position:relative;
+
+
+}
+.long
+{
+font-size:14px;
+}
+
+#t_ename
+{
+
+color:gainsboro;
+text-shadow: 1px 1px gainsboro;
+
+}
+
+#t_ename_m
+{
+
+margin-left:300px;
+position:relative;
+top:25px;
+color:gainsboro;
+text-shadow: 1px 1px gainsboro;
+font-size:11px;
+}
+
+#t_ename_sm
+{
+margin-left:220px;
+position:relative;
+top:25px;
+color:gainsboro;
+text-shadow: 1px 1px gainsboro;
+font-size:11px;
+}
+
+#t_eimage
+{
+
+}
+#t_etabs
+{
+
+clear:both;
+
+}
+#t_etabs ul
+{
+list-style:none;
+position:relative;
+
+}
+
+#t_etabs li
+{
+float:left;
+margin-right:22px;
+
+
+}
+
+#t_etabs a
+{
+font-size:21px;
+text-decoration:none;
+color:gainsboro;
+
+}
+
+#t_edetails
+{
+clear:both;
+text-align:justify;
+font-size:16px;
+margin-top:70px;
+color:gainsboro;
+width:700px;
+
+}
+
+.saaslogo
+{
+margin-left:100px;
+}
+
+#aboutimg
+{
+margin-top:40px;
+margin-left:250px;
+margin-bottom:40px;
+}
+.about
+{
+width:870px;
+text-align:justify;
+margin-left:30px;
+color:gainsboro;
+
+}
+
+#techofes
+{
+opacity:0.5;
+}
+
+#arun
+{
+color:gainsboro;
+}
+
+#arun:hover
+{
+color:red;
+}
+
+#saas
+{
+color:gainsboro;
+
+}
+
+#saas:hover
+{
+color:yellow;
+}
+
+#det
+{
+color:green;
+}
+
+#eve
+{
+color:gainsboro;
+}
+
+.footer
+{
+
+clear:both;
+height:75px;
+color:gainsboro;
+background-image:url("../images/jfooter.jpg");
+}
+
+#flinks
+{
+position:relative;
+float:left;
+margin-left:60px;
+}
+
+#flinks a
+{
+
+text-decoration:none;
+float:left;
+margin-left:15px;
+margin-right:15px;
+color:green;
+margin-top:10px;
+position:relative;
+top:-5px;
+}
+
+#flinks a:hover
+{
+color:red;
+}
+.shortcuts
+{
+float:left;
+margin-left:10px;
+}
+.shortcuts a
+{
+margin-left:5px;
+}
+
+.ceg
+{
+float:left;
+margin-left:40px;
+position:relative;
+top:-5px;
+}
+
+.copyright
+{
+float:left;
+margin-left:70px;
+font-size:12px;
+}
+.copyright a
+{
+color:red;
+text-decoration:none;
+}
+
+.copyright #cpy
+{
+margin-left:30px;
+font-size:12px;
+}
+
+.browsers
+{
+float:right;
+}
+
+.browsers img
+{
+float:left;
+margin-right:5px;
+}
+
+#spon
+{
+}
+
+.spoa
+{
+}
+
+.spob
+{
+}
+
+#t_spons
+{
+margin-left:30px;
+margin-top:20px;
+float:left;
+
+}
+#t_spons h2
+{
+color:white;
+position:relative;
+margin-left:200px;
+top:-5px;
+}
+
+
+#wrapper {
+  width: 600px;
+  margin: 0 auto;
+  position:relative;
+  left:120px;
+  
+}
+
+#wrapper h1
+{
+color:gainsboro;
+font-size:17px;
+margin-left:100px;
+margin-top:42px;
+}
+
+article
+{
+color:gainsboro;
+}
+.enable
+{
+height:25px;
+width:155px;
+background-color:black;
+}
+
+.enable a
+{
+text-decoration:none;
+font-size:18px;
+position:relative;
+top:4px;
+margin-left:25px;
+animation:myfirst 2s; 
+-moz-animation:myfirst 2s; /* Firefox */
+-webkit-animation:myfirst 2s; /* Safari and Chrome */
+-o-animation:myfirst 2s; /* Opera */
+
+animation-iteration-count: infinite;
+-webkit-animation-iteration-count: infinite;
+-moz-animation-iteration-count: infinite;
+-o-animation-iteration-count: infinite;
+
+
+}
+
+#t_whole
+{
+margin-left:auto;
+margin-right:auto;
+width:1200px;
+
+background-repeat:no-repeat;
+}
+
+
+.sidelink
+{
+height:25px;
+width:155px;
+background-color:black;
+
+}
+
+.sidelink a
+{
+text-decoration:none;
+font-size:20px;
+position:relative;
+top:4px;
+margin-left:60px;
+color:gainsboro;
+}
+
+@keyframes myfirst
+{
+from{color:green;}
+to {color:yellow;}
+}
+
+@-moz-keyframes myfirst /* Firefox */
+{
+from {color:green;}
+to {color:red;}
+}
+
+@-webkit-keyframes myfirst /* Safari and Chrome */
+{
+from{color:green;}
+to {color:yellow;}
+}
+
+@-o-keyframes myfirst /* Opera */
+{
+from {color:green;}
+to {color:red;}
+}
+
+.loadimg
+{
+margin-left:450px;
+margin-top:150px;
+}
+
+
+.loadimg2
+{
+margin-left:250px;
+margin-top:150px;
+}
+
+
+
+.loadimg3
+{
+margin-left:250px;
+margin-top:40px;
+}
+
+#clist
+{
+float:left;
+
+}
+
+#clist ul
+{
+list-style-type:none;
+margin-top:10px;
+}
+
+
+
+#clist li
+{
+cursor:hand;
+height:20px;
+width:200px;
+margin-top:20px;
+color:gold;
+
+
+}
+
+#cdetails h1
+{
+color:gold;
+}
+
+#cdetails
+{
+float:left;
+margin-left:20px;
+
+height:500px;
+width:600px;
+margin-top:20px;
+color:gainsboro;
+
+}
+
+#con
+{
+color:gold;
+}
+
+#heading h1
+{
+position:relative;
+top:-11px;
+color:gainsboro;
+margin-left:250px;
+}
+
+#cent
+{
+margin-left:250px;
+}
+
+#lef
+{
+float:left;
+}
+
+#rig
+{
+margin-left:450px;
+}
+
+
+
+

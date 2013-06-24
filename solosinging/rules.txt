@@ -1,0 +1,13 @@
+<div class="long">
+Prelims:<br>
+1.	Time limit: 2 minutes.<br>
+2.	Participants are allowed to sing English/Tamil/Hindi songs.<br>
+3.	Karaoke tracks are NOT allowed.<br>
+
+Finals:<br>
+1.	In this round, the participants are given 2 minutes to perform a song/medley of their choice. Depending on that performance, the judges might ask the participants to sing a song of a     different genre/style.<br>
+2.	One accompanying instrument is allowed (only for the finals) and the participant can play the instrument as well as sing if he/she wants.<br>
+3.	Participants can perform the same song that they sang during prelims or choose to sing a different one.<br>
+4.	MIDI sequence/Karaoke tracks will not be allowed.<br>
+5.	Judges decision will be final.
+</div>

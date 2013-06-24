@@ -1,0 +1,54 @@
+<?php
+include("sess.txt");
+?>
+
+
+<div id="t_eventname">
+<h1>Play Store</h1>
+
+<?php include("playstorelist.txt"); ?>
+</div>
+
+<div id="t_eventdetails">
+
+<div id="t_ename_m">
+<h1>Gamindrome</h1>
+</div>
+
+
+<br>
+<br>
+<div id="t_eimage">
+<?php
+include("crossplaystore.txt");
+?>
+
+</div>
+
+<div id="t_etabs">
+
+<ul>
+<li ><a href="gamindrome/ang.txt" rel='det' id="det" class="deta">Angry Birds</a></li>
+<li><a href="gamindrome/cstrike.txt" rel='det' id="det" class="detb">Counter Strike</a></li>
+<li><a href="gamindrome/dota.txt" rel='det' id="det" class="detc">Dota</a></li>
+<li><a href="gamindrome/fifa.txt" rel='det' id="det" class="detd">FIFA</a></li>
+<li><a href="gamindrome/nfs.txt" rel='det' id="det" class="dete">NFS</a></li>
+<li><a href="gamindrome/temp.txt" rel='det' id="det" class="detf">Temple Run</a></li>
+
+
+
+
+</ul>
+
+
+</div>
+
+
+<div id="t_edetails">
+<?php include("gamindrome/ang.txt"); ?>
+</div>
+
+</div>
+
+<!-- event detais ends-->
+

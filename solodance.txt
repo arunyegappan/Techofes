@@ -1,0 +1,69 @@
+<?php
+include("sess.txt");
+?>
+<?php
+
+if(!(isset($_GET['click'])))
+{
+echo '
+<div id="homepage">
+<div id="t_eventname">
+<h1>Hips Dont Lie</h1>';
+
+include("hipsdontlielist.txt");
+
+echo '
+</div>';
+}
+?>
+
+<div id="t_eventdetails">
+
+<div id="t_ename_m">
+<h1>Solo Dance</h1>
+</div>
+<br>
+<br>
+
+
+<div id="t_eimage">
+<?php
+   include("crosssolodance.txt");
+   ?>
+ 
+</div>
+
+<div id="t_etabs">
+
+<ul>
+<li ><a href="solodance/home.txt" rel='det' id="det" class="deta">Home</a></li>
+<li><a href="solodance/rules.txt" rel='det' id="det" class="detb">Rules</a></li>
+
+
+<li><a href="solodance/contact.txt" rel='det' id="det" class="dete">Contact</a></li>
+
+
+
+
+
+</ul>
+
+
+</div>
+
+
+<div id="t_edetails">
+<?php include("solodance/home.txt"); ?>
+</div>
+
+</div>
+
+<!-- event detais ends-->
+<?php
+
+if(!(isset($_GET['click'])))
+{
+echo '
+</div>
+<!-- homepage ends-->';
+} ?>

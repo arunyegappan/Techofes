@@ -1,0 +1,16 @@
+<?php
+include("sess.txt");
+include("bgsess.txt");
+?>	
+<ul>
+<li id="gone"><a href="facepainting.php" rel='eve' id="eve" class="evea">Face Painting</a></li>
+<li><a href="photostory.php" rel='eve' id="eve" class="eveb">Photo Story</a></li>
+<li><a href="eggshell.php" rel='eve' id="eve" class="evec">Egg Shell Art</a></li>
+<li><a href="mehendi.php" rel='eve' id="eve" class="eved">Mehendi</a></li>
+<li><a href="caricature.php" rel='eve' id="eve" class="evee">Caricature</a></li>
+<li><a href="graffiti.php" rel='eve' id="eve" class="evef">Graffiti</a></li>
+<li><a href="blindart.php" rel='eve' id="eve" class="eveg">Blind Art</a></li>
+<li><a href="fireless.php" rel='eve' id="eve" class="eveh">Fireless Cooking</a></li>
+</ul>
+
+ 

@@ -1,0 +1,52 @@
+
+<div class="footer">
+<br>
+<div class="shortcuts">
+		<a href="http://www.facebook.com/techofes.org" draggable="false" target="_blank"><img src="images/face.png " width="20" height="20"></a>
+		<a href="http://www.twitter.com/techofesceg" draggable="false" target="_blank"><img src="images/twitter.png " width="20" height="20"></a>
+		<a href="http://www.techofesceg.tumblr.com" draggable="false" target="_blank"><img src="images/tumb.png " width="20" height="20" ></a>
+		<a href="http://www.foursquare.com/techofesceg" draggable="false" target="_blank"><img src="images/four.png " width="20" height="20"></a>
+		</div>
+
+		<div id="flinks">
+
+<a href="home.php" id="arun" class="foota">HOME</a>
+<a  href="contact.php" id="arun" rel='tab' class="footb">CONTACTS</a>
+<a  href="superstar/index.php" id="arun" class="footc" title="click to see Superstar's Special website" target="_blank">SUPERSTAR</a>
+
+</div>
+
+<!-- flinks ends -->
+		
+		<div class="ceg">
+		<a href="http://www.ceg.edu.in" target="_blank"><img src="images/ceg-logo.png" draggable="false" /></a>
+		</div>
+		
+		
+<div class="copyright">
+Website developed and maintained by <a id="saas" href="https://www.facebook.com/cegsaas" target="_blank">SAAS</a> Web team
+
+<div id="cpy">
+Copyright  &copy; Techofes.org All rights reserved 
+</div>
+
+</div>
+
+
+<!-- Copyright ends -->
+
+
+
+
+<div class="browsers">
+
+<img src="images/chrome.png" height="20" width="20" draggable="false">
+<img src="images/mozilla.png" height="20" width="20" draggable="false">
+<img src="images/safari.png" height="20" width="20" draggable="false">
+<img src="images/opera.png" height="20" width="20" draggable="false">
+</div>
+
+
+
+
+</div>

@@ -1,0 +1,17 @@
+<?php
+include("sess.txt");
+include("bgsess.txt");
+
+?>	
+<ul>
+<li ><a href="claymodelling.php" rel='eve' id="eve" class="evea">Clay Modelling</a></li>
+<li><a href="newspaper.php" rel='eve' id="eve" class="eveb">Newspaper Dressing</a></li>
+<li><a href="rangoli.php" rel='eve' id="eve" class="evec">Rangoli</a></li>
+<li><a href="jewellery.php" rel='eve' id="eve" class="eved">Jewellery Design</a></li>
+<li><a href="collage.php" rel='eve' id="eve" class="evee">Collage</a></li>
+<li><a href="soapcarving.php" rel='eve' id="eve" class="evef">Soap Carving</a></li>
+
+
+</ul>
+
+ 

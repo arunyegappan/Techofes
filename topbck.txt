@@ -1,0 +1,52 @@
+<div id="t_whole">
+
+
+<div class="t_maintop">
+
+<div class="t_logo">
+
+<img src="images/logo.png" width="245" height="130" draggable="false" /> 
+
+</div>
+
+
+<div class="t_leftmenu">
+<ul>
+
+<li><a href="abc.php"  id="arun" rel='tab' class="linka">Home</a></li><li><a href="about.php" id="arun" rel='tab' class="linkb">About Us</a></li><li><a href="home.php" id="arun" rel='tab' class="linkc">sponsors</a></li><li><a href="concert.php" id="arun" rel='tab' class="linkd">Concert</a></li><li><a href="workshop.php" id="arun" rel="tab" class="linke">Workshop</a></li><li><a href="home.php" rel="tab" id="arun" rel='tab' class="linkf">Gallery</a></li><li><a href="contact.php"  id="arun" rel='tab' class="linkg">Contacts</a></li>
+
+</ul>
+</div>
+
+<div id="t_eventtabs">
+
+<a href="hipsdontlie.php" id="saas" rel='tab' class="icona"><img src="images/icons/dance.png" height="30" width="30" draggable="false"/> </a>
+<a href="rhythmz.php" id="saas" rel='tab' class="iconb"><img src="images/icons/rhythmz.png" height="30" width="30" draggable="false"/> </a>
+
+<a href="talenttreasure.php" id="saas" rel='tab' class="iconc"><img src="images/icons/talent.png" height="30" width="30" draggable="false"/> </a>
+
+<a href="quizit.php" id="saas" rel='tab' class="icond"><img src="images/icons/quiz.png" height="30" width="30" draggable="false"/> </a>
+
+<a href="artistry.php" id="saas" rel='tab' class="icone"><img src="images/icons/artistry.png" height="30" width="30" draggable="false"/> </a>
+
+<a href="craftz.php" id="saas" rel='tab' class="iconf"><img src="images/icons/crafty.png" height="30" width="30" draggable="false"/> </a>
+<a href="thriller.php" id="saas" rel='tab' class="icong"><img src="images/icons/thriller.png" height="30" width="30" draggable="false"/> </a>
+<a href="funmania.php" id="saas" rel='tab' class="iconh"><img src="images/icons/fun.png" height="30" width="30" draggable="false"/> </a>
+<a href="playstore.php" id="saas" rel='tab' class="iconi"><img src="images/icons/playstore.png" height="30" width="30" draggable="false"/> </a>
+<a href="talkingtom.php" id="saas" rel='tab' class="iconj"><img src="images/icons/speak.png" height="30" width="30" draggable="false"/> </a>
+<a href="writerscorner.php" id="saas" rel='tab' class="iconk"><img src="images/icons/writing.png" height="30" width="30" draggable="false"/> </a>
+
+
+
+</div>
+<!-- eventtabs ends-->
+
+
+
+</div>
+
+<!-- main top ends-->
+
+
+
+

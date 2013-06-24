@@ -1,0 +1,13 @@
+<div class="long">
+<ul>
+<li>How do I have to register for this event?
+<br>Register by reaching the event organisers via mail or sms.
+Give your Name, Contact no. , Year, Dept., e-mail id in the order specified.
+</li>
+
+<li>Should I have to do this only in English??<br>Not necessarily.</li>
+<li>Should I be experienced already?<br>Nope. In fact freshers are preferred!</li>
+<li>Being a girl, can I participate? Do I stand a chance of winning?<br>Of course! You are most welcome!b</li>
+<li>What benefit do I get in doing this?<br>You'll be compering for Techofes! What else do you want???</li>
+</ul>
+</div>

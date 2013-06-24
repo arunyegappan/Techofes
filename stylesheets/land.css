@@ -1,0 +1,57 @@
+html, body {
+    margin: 0;
+    padding: 0;
+	background-color:gainsboro;
+}
+@font-face
+{
+font-family: Freshman;
+src: url('Freshman.ttf')
+    
+}
+.landing
+{
+width:1270px;
+margin-left:auto;
+margin-right:auto;
+height:800px;
+background-image:url("../images/land.jpg");
+}
+
+#super
+{
+
+padding-top:510px;
+padding-left:570px;
+}
+
+#super a
+{
+text-decoration:none;
+font-size:30px;
+color:gainsboro;
+font-family: Freshman;
+}
+
+.like
+{
+
+padding-top:20px;
+padding-left:38px;
+}
+
+.links
+{
+
+position:relative;
+top:-70px;
+padding-left:740px;
+
+}
+
+.links img
+{
+float:left;
+margin-left:20px;
+
+}

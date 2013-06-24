@@ -1,0 +1,25 @@
+<div id="heading">
+
+<h1>Web Team</h1>
+
+<div id="cent">
+<h3>Core Head</h3>
+Arun Ram <br> 9789556465 <br> web@techofes.org
+</div>
+<br>
+
+<div id="lef">
+
+Elakya <br> 8056292343
+</div>
+
+<div id="rig">
+
+Senthil Raj <br> 9500469530
+
+</div>
+
+
+
+
+</div>

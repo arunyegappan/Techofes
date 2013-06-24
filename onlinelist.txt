@@ -1,0 +1,10 @@
+<?php
+include("sess.txt");
+include("bgsess.txt");
+?>	
+<ul>
+<li ><a href="shutterbug.php" rel='eve' id="eve" class="evea">Shutterbug</a></li>
+
+</ul>
+
+  

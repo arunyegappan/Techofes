@@ -1,0 +1,14 @@
+<?php
+include("sess.txt");
+include("bgsess.txt");
+?>	
+<ul>
+<li ><a href="creativewriting.php" rel='eve' id="eve" class="evea">Creative Writing</a></li>
+<li><a href="extempore.php" rel='eve' id="eve" class="eveb">Extempore</a></li>
+<li><a href="poetry.php" rel='eve' id="eve" class="evec">Poetry</a></li>
+
+
+
+</ul>
+
+ 

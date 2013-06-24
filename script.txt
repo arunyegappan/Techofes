@@ -1,0 +1,231 @@
+  <meta charset="utf-8">
+    <link rel="shortcut icon" 
+
+href="http://www.techofes.org/images/favic
+
+on.png"> 
+     
+    <meta itemprop="name" 
+
+content="Techofes">
+    <meta itemprop="description" 
+
+content="Techofes-India's first ever inter 
+
+college cultural festival, since 1948 from 
+
+the India's first ever engg. institution 
+
+College of Engineering, Guindy, since 
+
+1794.">
+    <meta name="keywords" 
+
+content="techofes, techofes 13, 
+
+techofes.org , techofes ceg, culturals, 
+
+South india's biggest culturals, south 
+
+india, chennai , tamil nadu , Thuppaki 
+
+director, A.R . Murugadoss, Launched by 
+
+A.R Murugadoss ,MR and Ms Techofes, 
+
+Techofes Awards ,BMX stunts,February,anna 
+
+university,guindy,Save Energy">
+	<meta name="description" 
+
+content="Techofes-India's first ever inter 
+
+college cultural festival, since 1948 from 
+
+the India's first ever engg. institution 
+
+College of Engineering, Guindy, since 
+
+1794.">	
+
+    <meta name="Designer" content="Arun 
+
+Ram">
+    <meta name="author" content="Arun 
+
+Ram,Senthil Raj,Elakya v, saas web team">
+    <meta name="copyright" content="2013 
+
+Techofes"/>
+<meta property="og:title" 
+
+content="Techofes'13" />
+		<meta property="og:type" 
+
+content="website" />
+		<meta property="og:url" 
+
+content="http://techofes.org" />
+		<meta property="og:image" 
+
+content="http://techofes.org/images/favsma
+
+ll.png" />
+		<meta 
+
+property="og:site_name" 
+
+content="Techofes'13 get pumped up!" />
+                    
+		 
+
+
+<script src="jquery.cross-
+
+slide.min.js"></script>
+
+<style>
+#slideshow {
+  width: 700px;
+  height: 200px;
+ 
+}
+</style>
+<script type="text/javascript" 
+
+language="javascript">
+
+var slideArray = new Array()
+
+slideArray[0]= "<br><br><br>Welcome to 
+
+South India's biggest cultural fest  
+
+Techofes. Techofes'13 is all set to rock 
+
+from feb 20 with 75+ events and many 
+
+celebreties.";
+
+slideArray[1]= "<br><br><br>Default mode 
+
+will be click enabled.You can go CLICK 
+
+LESS anytime.Experience clickless browsing 
+
+for the first time in Techofes. ";
+
+slideArray[2]= "<br><br><br>Online 
+
+photography contest started.Click <a 
+
+href='shutterbug.php'>here</a> to see the 
+
+details.";
+
+slideArray[3]= "<br><br><br>Are you 
+
+tempted to exit a website just because you 
+
+don't like the aura colour? <br>
+Not an issue with Techofes !!!<br>
+Change to colours and Themes to suit your 
+
+taste  ";
+
+slideArray[4]= "<br><br><br>Workshops 
+
+Registration opening soon. ";
+
+
+function firstSlide()
+
+{
+
+document.getElementById
+
+('div_display').innerHTML=slideArray[0];
+
+setTimeout("secondSlide()",5000);
+
+}
+
+
+function secondSlide()
+
+{
+
+document.getElementById
+
+('div_display').innerHTML=slideArray[1];
+
+setTimeout("thirdSlide()",5000);
+
+}
+		
+
+function thirdSlide()
+
+{
+
+document.getElementById
+
+('div_display').innerHTML=slideArray[2];
+
+setTimeout("fourthSlide()",5000);
+
+}
+
+function fourthSlide()
+
+{
+
+document.getElementById
+
+('div_display').innerHTML=slideArray[3];
+
+setTimeout("fifthSlide()",5000);
+
+}
+
+function fifthSlide()
+
+{
+
+document.getElementById
+
+('div_display').innerHTML=slideArray[4];
+
+setTimeout("firstSlide()",5000);
+
+}
+
+function redir()
+{
+location.href="home.php";
+
+}
+</script>
+
+
+
+<link rel="stylesheet" 
+
+href="stylesheets/map.css">
+<link rel="stylesheet" type="text/css" 
+
+href="stylesheets/style.css" />
+
+ 
+
+<script src='js/jquery-1.2.6.min.js' 
+
+type='text/javascript'></script>
+	
+<script type="text/javascript" 
+
+src="js/techofes.js" >	
+<?php
+include("sess.txt");
+?>
+

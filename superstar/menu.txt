@@ -1,0 +1,122 @@
+<ul id="sdt_menu" class="sdt_menu">
+				<li>
+					<a href="#">
+						<img src="images/1975-1980.jpg" alt=""/>
+						<span class="sdt_active"></span>
+						<span class="sdt_wrap">
+							<span class="sdt_link">1975-1980</span>
+							<span class="sdt_descr">Thalaivar films released during this period</span>
+						</span>
+					</a>
+					<div class="sdt_box">
+							<a href="one.php" >1975</a>
+							<a href="1976.php" rel='tab' >1976</a>
+							<a href="1977.php">1977</a>
+							<a href="1978.php" >1978</a>
+							<a href="1980.php">1979-1980</a>
+					</div>
+				</li>
+				<li>
+					<a href="#">
+						<img src="images/1981-1985.jpg" alt=""/>
+						<span class="sdt_active"></span>
+						<span class="sdt_wrap">
+							<span class="sdt_link">1981-1985</span>
+							<span class="sdt_descr">Thalaivar films released during this period</span>
+						</span>
+					</a>
+					<div class="sdt_box">
+							<a href="1981.php">1981</a>
+							<a href="1982.php">1982</a>
+							<a href="1983.php">1983</a>
+							<a href="1984.php">1984</a>
+							<a href="1985.php">1985</a>
+							
+					</div>
+				</li>
+				<li>
+					<a href="#">
+						<img src="images/1986-1990.jpg" alt=""/>
+						<span class="sdt_active"></span>
+						<span class="sdt_wrap">
+							<span class="sdt_link">1986-1990</span>
+							<span class="sdt_descr">Thalaivar films released during this period</span>
+						</span>
+					</a>
+					<div class="sdt_box">
+							<a href="1986.php">1986</a>
+							<a href="1987.php">1987</a>
+							<a href="1988.php">1988</a>
+							<a href="1989.php">1989</a>
+							<a href="1990.php">1990</a>
+					</div>
+				</li>
+				<li>
+					<a href="#">
+						<img src="images/1991-1995.jpg" alt=""/>
+						<span class="sdt_active"></span>
+						<span class="sdt_wrap">
+							<span class="sdt_link">1991-1995</span>
+							<span class="sdt_descr">Thalaivar films released during this period</span>
+						</span>
+					</a>
+					<div class="sdt_box">
+							<a href="1991.php">1991</a>
+							<a href="1992.php">1992</a>
+							<a href="1993.php">1993</a>
+							<a href="1994.php">1994</a>
+							<a href="1995.php">1995</a>
+					</div>
+				</li>
+				<li>
+					<a href="#">
+						<img src="images/1995-2000.jpg" alt=""/>
+						<span class="sdt_active"></span>
+						<span class="sdt_wrap">
+							<span class="sdt_link">1996-2000</span>
+							<span class="sdt_descr">Thalaivar films released during this period</span>
+						</span>
+					</a>
+					<div class="sdt_box">
+							
+							<a href="1997.php">1997</a>
+							<a href="1998.php">1998</a>
+							<a href="1999.php">1999</a>
+						
+					</div>
+				</li>
+				
+				
+				<li>
+					<a href="#">
+						<img src="images/2000-2005.jpg" alt=""/>
+						<span class="sdt_active"></span>
+						<span class="sdt_wrap">
+							<span class="sdt_link">2000-2005</span>
+							<span class="sdt_descr">Thalaivar films released during this period</span>
+						</span>
+					</a>
+					<div class="sdt_box">
+							
+							<a href="2002.php">2002</a>
+							
+							<a href="2005.php">2005</a>
+					</div>
+				</li>
+				
+				<li>
+					<a href="#">
+						<img src="images/2005-2012.jpg" alt=""/>
+						<span class="sdt_active"></span>
+						<span class="sdt_wrap">
+							<span class="sdt_link">2006-2012</span>
+							<span class="sdt_descr">Thalaivar films released during this period</span>
+						</span>
+					</a>
+					<div class="sdt_box">
+							<a href="2007.php">2007</a>
+							<a href="2010.php">2010</a>
+							
+					</div>
+				</li>
+			</ul>

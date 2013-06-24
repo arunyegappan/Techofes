@@ -1,0 +1,48 @@
+<?php
+include("sess.txt");
+?>
+
+
+<div id="t_eventname">
+<h1>Talking Tom</h1>
+
+<?php include("talkingtomlist.txt"); ?>
+</div>
+
+<div id="t_eventdetails">
+
+<div id="t_ename_m">
+<h1>Compere Catch</h1>
+</div>
+
+<br><br>
+<div id="t_eimage">
+<?php
+include("crosstalkingtom.txt");
+?>
+
+</div>
+
+<div id="t_etabs">
+
+<ul>
+<li><a href="comperecatch/home.txt" rel='det' id="det" class="deta">home</a></li>
+<li><a href="comperecatch/rules.txt" rel='det' id="det" class="detb">Rules</a></li>
+<li><a href="comperecatch/faq.txt" rel='det' id="det" class="detc">Faq</a></li>
+<li><a href="comperecatch/contact.txt" rel='det' id="det" class="detd">Contact</a></li>
+
+
+</ul>
+
+
+</div>
+
+
+<div id="t_edetails">
+<?php include("comperecatch/home.txt"); ?>
+</div>
+
+</div>
+
+<!-- event detais ends-->
+

@@ -1,0 +1,23 @@
+<div id="t_eventtabs">
+
+<a href="hipsdontlie.php" id="saas" rel='tab' class="icona"><img src="images/dock/home.png" height="40" width="40" draggable="false"/> </a>
+
+<a href="rhythmz.php" id="saas" rel='tab' class="iconb"><img src="images/dock/home.png" height="40" width="40" draggable="false"/> </a>
+
+<a href="talenttreasure.php" id="saas" rel='tab' class="iconc"><img src="images/dock/home.png" height="40" width="40" draggable="false"/> </a>
+
+<a href="quizit.php" id="saas" rel='tab' class="icond"><img src="images/dock/home.png" height="40" width="40" draggable="false"/> </a>
+
+<a href="artistry.php" id="saas" rel='tab' class="icone"><img src="images/dock/home.png" height="40" width="40" draggable="false"/> </a>
+
+<a href="craftz.php" id="saas" rel='tab' class="iconf"><img src="images/dock/home.png" height="40" width="40" draggable="false"/> </a>
+<a href="thriller.php" id="saas" rel='tab' class="icong"><img src="images/dock/home.png" height="40" width="40" draggable="false"/> </a>
+<a href="funmania.php" id="saas" rel='tab' class="iconh"><img src="images/dock/home.png" height="40" width="40" draggable="false"/> </a>
+<a href="playstore.php" id="saas" rel='tab' class="iconi"><img src="images/dock/home.png" height="40" width="40" draggable="false"/> </a>
+<a href="talkingtom.php" id="saas" rel='tab' class="iconj"><img src="images/dock/home.png" height="40" width="40" draggable="false"/> </a>
+<a href="writerscorner.php" id="saas" rel='tab' class="iconk"><img src="images/dock/home.png" height="40" width="40" draggable="false"/> </a>
+
+
+
+</div>
+<!-- eventtabs ends-->

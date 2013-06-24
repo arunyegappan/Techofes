@@ -1,0 +1,11 @@
+<ul>
+<li>What all do I need to bring to the quiz?
+<br>Just bring you and your intelligent senses!!!</li>
+<br>
+<li>Are guesses counted as questions?
+<br>First of all, no guesses. You have only one guess. And second, if you get it wrong, you are eliminated. So use your guess with the utmost care.</li>
+<li>What if I ask random questions other than yes or no?
+<br>First time you'll be given a warning. 
+If you repeat it, you'll be eliminated for sure. No excuses.
+</li>
+</ul>

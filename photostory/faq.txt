@@ -1,0 +1,12 @@
+<ul>
+<li>.What if you don't understand my story?  
+<br>We'll let you know, so that you get a chance to explain it.</li>
+<br>
+<li>what camera should we use ? 
+<br>Anything,but we need a clear picture.
+</li>
+<br>
+<li>can we edit the photos? 
+<br>Ya,you can do anything,but no texts !!</li>
+
+</ul>

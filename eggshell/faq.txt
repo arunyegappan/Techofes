@@ -1,0 +1,8 @@
+<ul>
+<li>Can I come along with my friends?<br>
+Yes, with pleasure. But each one should participate individually.</li>
+<li>Will extra eggs be provided?<br>
+Under unavoidable circumstances it will be considered.</li>
+<li>Can I use my glitter pen or any other decorating article?<br>
+No. Only the provided materials should be used. Pen/pencil alone is allowed.</li>
+</ul>

@@ -1,0 +1,39 @@
+<div id="t_name_s">
+<h1>Get Pumped Up!</h1>
+
+
+</div>
+
+<div id="div_display">
+<script type="text/javascript" language="javascript">firstSlide();</script>
+</div>
+
+
+<div id="centralholder">
+
+<div id="aboutimg">
+
+<img src="images/saas.png" draggable="false"/>
+
+</div>
+<br><br>
+<div id="para1">
+
+SAAS, Students Association of Arts Society is vested by a bevy of students elected by the students
+and for the benefit of the students. Eight students, The President, The Vice-President, The lady Vice-
+President, Cultural Secretary, Assistant cultural Secretary, General Secretary, Joint Secretary and
+Sports Secretary elected by the CEGians presume their respective post and embrace their succor
+duties. SAAS, The organizing team of two cultural events such as AGNI- The intra-college cultural
+event and TECHOFES- The nationwide college cultural event fortitudes the CEGians to put up a great
+show and welcome the creative talents to showcase what they have. In a nut shell, SAAS is a dollop
+of creativity & fun, a smear of hard work & help and a sprinkle of technicality for the added CEG
+effect.
+
+
+</div>
+
+
+</div>
+<!-- central holer ends-->
+
+

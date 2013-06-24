@@ -1,0 +1,49 @@
+<?php
+include("sess.txt");
+?>
+
+<div id="t_eventname">
+<h1>Craftz</h1>
+
+<?php include("craftzlist.txt"); ?>
+</div>
+
+<div id="t_eventdetails">
+
+<div id="t_ename_m">
+<h1>Clay Modelling</h1>
+</div>
+
+<br>
+<br>
+<div id="t_eimage">
+<?php
+include("crosscraftz.txt");
+?>
+</div>
+
+<div id="t_etabs">
+
+<ul>
+<li ><a href="claymodelling/home.txt" rel='det' id="det" class="deta">Home</a></li>
+<li><a href="claymodelling/rules.txt" rel='det' id="det" class="detb">Rules</a></li>
+<li><a href="claymodelling/contact.txt" rel='det' id="det" class="dete">Contact</a></li>
+
+
+
+
+
+</ul>
+
+
+</div>
+
+
+<div id="t_edetails">
+<?php include("claymodelling/home.txt"); ?>
+</div>
+
+</div>
+
+<!-- event detais ends-->
+

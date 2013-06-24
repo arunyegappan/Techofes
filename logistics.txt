@@ -1,0 +1,35 @@
+
+<div id="heading">
+
+<h1>Logistics Team</h1>
+
+<div id="cent">
+<h3>Core Head</h3>
+Kannadasan <br> 8870573642 <br> logistics@techofes.org
+</div>
+<br>
+<br>
+<div id="lef">
+
+Narendar <br> 9847084833
+</div>
+
+<div id="rig">
+
+Vivin <br>
+
+
+</div>
+<br><br>
+<div id="left">
+
+Yasar <br> 9566378005
+
+</div>
+
+<div id="rig">
+
+Prabhakaran<br> 
+
+</div>
+</div>

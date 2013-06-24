@@ -1,0 +1,44 @@
+<div id="heading">
+
+<h1>Events Team</h1>
+
+<div id="cent">
+<h3>Core Head</h3>
+Sudharsan <br> 8939494282 <br> events@techofes.org
+</div>
+<br>
+
+<div id="lef">
+<h3>Informals</h3>
+Ashiq Arif <br>9677682423
+</div>
+
+<div id="rig">
+<h3>Fine Arts </h3>
+Anirudh <br> 9176182812
+
+</div>
+<br>
+<div id="cent">
+<h3>Online Events</h3>
+Mouleeswaran <br> 8754488154 
+</div>
+<br>
+
+<div id="lef">
+<h3>Literary</h3>
+Harleen Kaur <br> 
+</div>
+
+<div id="rig">
+<h3>Dance</h3>
+Kavin kumar <br> 9789059728
+
+</div>
+
+
+
+
+
+
+</div>

@@ -1,0 +1,12 @@
+<?php
+include("sess.txt");
+include("bgsess.txt");
+?>	
+<ul>
+<li ><a href="sports.php" rel='eve' id="eve" class="evea">Sports</a></li>
+<li><a href="general.php" rel='eve' id="eve" class="eveb">General</a></li>
+<li><a href="entertainment.php" rel='eve' id="eve" class="evec">Entertainment</a></li>
+</ul>
+
+ 
+ 

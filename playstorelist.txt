@@ -1,0 +1,14 @@
+<?php
+include("sess.txt");
+include("bgsess.txt");
+?>	
+<ul>
+<li ><a href="gamindrome.php" rel='eve' id="eve" class="evea">Gamindrome</a></li>
+<li><a href="sudoko.php" rel='eve' id="eve" class="eveb">Sudoko</a></li>
+<li><a href="scrabble.php" rel='eve' id="eve" class="evec">Scrabble</a></li>
+<li><a href="rubixcube.php" rel='eve' id="eve" class="eved">Rubix Cube</a></li>
+
+
+</ul>
+
+ 

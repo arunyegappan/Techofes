@@ -1,0 +1,6 @@
+<ul>
+<li ><a href="adapttotunez.php" rel='eve' id="eve" class="evea">Adapt Tunes</a></li>
+<li><a href="solodance.php" rel='eve' id="eve" class="eveb">Solo Dance</a></li>
+<li><a href="solodance.php" rel='eve' id="eve" class="evec">Group Dance</a></li>
+
+</ul>

@@ -1,0 +1,7 @@
+<div id="homepage">
+<div id="soon">
+<h1>Coming soon..Stay Tuned!! </h1>
+
+</div>
+
+</div>

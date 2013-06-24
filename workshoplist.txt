@@ -1,0 +1,15 @@
+<?php
+include("sess.txt");
+include("bgsess.txt");
+
+?>	
+<ul>
+<li ><a href="3dgd.php" rel='eve' id="eve" class="evea">3D Game Designing</a></li>
+<li><a href="photographywork.php" rel='eve' id="eve" class="eveb">Photography</a></li>
+
+
+
+
+</ul>
+
+ 

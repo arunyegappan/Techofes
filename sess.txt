@@ -1,0 +1,25 @@
+<script type="text/javascript" src="js/jquery-1.4.2.min.js" ></script>
+
+
+
+<?php
+
+
+if($_SESSION['click']=="no")
+{
+echo '
+<script type="text/javascript" src="js/3bck.js" ></script>
+';
+}
+
+if($_SESSION['click']=="click")
+{
+echo '
+<script type="text/javascript" src="js/2bck.js" ></script>
+';
+
+}
+
+
+
+?>

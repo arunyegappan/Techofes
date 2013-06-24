@@ -1,0 +1,24 @@
+<div id="heading">
+
+<h1>Maintance Team</h1>
+
+<div id="cent">
+<h3>Core Head</h3>
+Sasi Ragav <br> maintanance@techofes.org
+</div>
+<br>
+<br>
+<div id="lef">
+
+Rahul <br> 9500487041
+</div>
+
+<div id="rig">
+
+Siva Priya<br> 
+
+</div>
+
+
+
+</div>

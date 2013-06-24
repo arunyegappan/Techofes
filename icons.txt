@@ -1,0 +1,18 @@
+<div id="t_eventtabs">
+
+<a href="dance.php" id="saas" rel='tab' class="icona"><img src="images/dock/home.png" height="50" width="50" draggable="false"/> </a>
+
+<a href="dance.php" id="saas" rel='tab' class="iconb"><img src="images/dock/home.png" height="50" width="50" draggable="false"/> </a>
+
+<a href="dance.php" id="saas" rel='tab' class="iconc"><img src="images/dock/home.png" height="50" width="50" draggable="false"/> </a>
+
+<a href="dance.php" id="saas" rel='tab' class="icond"><img src="images/dock/home.png" height="50" width="50" draggable="false"/> </a>
+
+<a href="dance.php" id="saas" rel='tab' class="icone"><img src="images/dock/home.png" height="50" width="50" draggable="false"/> </a>
+
+<a href="dance.php" id="saas" rel='tab' class="iconf"><img src="images/dock/home.png" height="50" width="50" draggable="false"/> </a>
+
+</ul>
+
+</div>
+<!-- eventtabs ends-->

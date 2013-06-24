@@ -1,0 +1,226 @@
+<script>
+
+$(function(){
+	$("a[rel='tab']").mouseover(function(e){
+		
+		if($(this).attr('id')!="techofes")
+		{
+	var x=$(this).attr('class');
+var y='images/load.gif';
+
+	jQuery(".linka").attr("id","techofes");	
+	jQuery(".linkb").attr("id","techofes");
+	jQuery(".linkc").attr("id","techofes");
+	jQuery(".linkd").attr("id","techofes");
+	jQuery(".linke").attr("id","techofes");
+	jQuery(".linkf").attr("id","techofes");	
+	jQuery(".linkg").attr("id","techofes");	
+	jQuery(".icona").attr("id","techofes");
+	jQuery(".iconb").attr("id","techofes");
+	jQuery(".iconc").attr("id","techofes");
+	jQuery(".icond").attr("id","techofes");
+	jQuery(".icone").attr("id","techofes");
+	jQuery(".iconf").attr("id","techofes");
+	jQuery(".foota").attr("id","techofes");
+	jQuery(".footb").attr("id","techofes");
+	jQuery(".footc").attr("id","techofes");
+		//get the link location that was clicked
+		pageurl = $(this).attr('href');
+		
+		
+		 $("#homepage").ajaxStart(function(){
+    $(this).html("<img src='images/load.gif' />");
+  });
+  
+  $.ajax({url:pageurl,success: function(data){
+			$("#homepage").load(pageurl+"/?click='yes'");
+		}});
+		
+   $("#homepage").ajaxStop(function(){
+   
+		 jQuery(".linka").attr("id","arun");	
+		jQuery(".linkb").attr("id","arun");
+		jQuery(".linkc").attr("id","arun");
+		jQuery(".linkd").attr("id","arun");
+		jQuery(".linke").attr("id","arun");
+		jQuery(".linkf").attr("id","arun");	
+		jQuery(".linkg").attr("id","arun");
+		jQuery(".icona").attr("id","saas");
+		jQuery(".iconb").attr("id","saas");
+		jQuery(".iconc").attr("id","saas");
+		jQuery(".icond").attr("id","saas");
+		jQuery(".icone").attr("id","saas");
+		jQuery(".iconf").attr("id","saas");
+		jQuery(".foota").attr("id","arun");
+		jQuery(".footb").attr("id","arun");
+		jQuery(".footc").attr("id","arun");
+		jQuery("."+x).attr("id","techofes");
+  });
+  
+ 
+		
+		
+		
+		//to change the browser URL to 'pageurl'
+		if(pageurl!=window.location){
+			window.history.pushState({path:pageurl},'',pageurl);	
+		}
+		
+		
+		return false; 
+		 }
+	});
+});
+
+$(function(){
+	$("a[rel='tab']").click(function(e){
+
+	return false;
+	});
+	});
+
+
+
+</script>
+
+
+
+
+<script>
+
+$(function(){
+	$("a[rel='eve']").mouseover(function(e){
+		
+		if($(this).attr('id')!="techofes")
+		{
+	var x=$(this).attr('class');
+
+	jQuery(".evea").attr("id","techofes");	
+	jQuery(".eveb").attr("id","techofes");
+	jQuery(".evec").attr("id","techofes");
+	jQuery(".eved").attr("id","techofes");
+	jQuery(".evee").attr("id","techofes");
+	jQuery(".evef").attr("id","techofes");	
+	jQuery(".eveg").attr("id","techofes");
+		//get the link location that was clicked
+		pageurl = $(this).attr('href');
+		
+		
+		 $("#t_eventdetails").ajaxStart(function(){
+    $(this).html("<img src='images/load.gif' />");
+  });
+  
+  $.ajax({url:pageurl,success: function(data){
+			$("#t_eventdetails").load(pageurl+"/?click='yes'");
+		}});
+		
+   $("#t_eventdetails").ajaxStop(function(){
+   
+		 jQuery(".evea").attr("id","eve");	
+		jQuery(".eveb").attr("id","eve");
+		jQuery(".evec").attr("id","eve");
+		jQuery(".eved").attr("id","eve");
+		jQuery(".evee").attr("id","eve");
+		jQuery(".evef").attr("id","eve");	
+		jQuery(".eveg").attr("id","eve");
+		jQuery("."+x).attr("id","techofes");
+  });
+  
+ 
+		
+		
+		
+		//to change the browser URL to 'pageurl'
+		if(pageurl!=window.location){
+			window.history.pushState({path:pageurl},'',pageurl);	
+		}
+		
+		
+		return false; 
+		 }
+	});
+});
+
+$(function(){
+	$("a[rel='eve']").click(function(e){
+
+	return false;
+	});
+	});
+
+
+
+</script>
+
+
+
+
+
+
+
+<script>
+
+$(function(){
+	$("a[rel='det']").mouseover(function(e){
+		
+		if($(this).attr('id')!="techofes")
+		{
+	var x=$(this).attr('class');
+
+	jQuery(".deta").attr("id","techofes");	
+	jQuery(".detb").attr("id","techofes");
+	jQuery(".detc").attr("id","techofes");
+	jQuery(".detd").attr("id","techofes");
+	jQuery(".dete").attr("id","techofes");
+	jQuery(".detf").attr("id","techofes");
+	jQuery(".detg").attr("id","techofes");
+	
+		//get the link location that was clicked
+		pageurl = $(this).attr('href');
+		
+		
+		 $("#t_edetails").ajaxStart(function(){
+    $(this).html("<img src='images/load.gif' />");
+  });
+  
+  $.ajax({url:pageurl,success: function(data){
+			$("#t_edetails").load(pageurl);
+		}});
+		
+   $("#t_edetails").ajaxStop(function(){
+   
+		 jQuery(".deta").attr("id","det");	
+		jQuery(".detb").attr("id","det");
+		 jQuery(".detc").attr("id","det");	
+		jQuery(".detd").attr("id","det");
+		 jQuery(".dete").attr("id","det");	
+		jQuery(".detf").attr("id","det");
+		 jQuery(".detg").attr("id","det");	
+		
+		
+		
+		jQuery("."+x).attr("id","techofes");
+  });
+  
+ 
+		
+		
+		
+		
+		
+		return false; 
+		 }
+	});
+});
+
+$(function(){
+	$("a[rel='det']").click(function(e){
+
+	return false;
+	});
+	});
+
+
+
+</script>
+	

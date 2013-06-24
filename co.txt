@@ -1,0 +1,46 @@
+<div id="heading">
+
+<h1>Hospitality Team</h1>
+
+<div id="cent">
+
+Jerline <br>9952502401 <br> hospitality@techofes.org
+</div>
+<br>
+<br>
+<div id="lef">
+
+M.V.Vignesh <br> 9600084252
+</div>
+
+<div id="rig">
+
+
+Anbusivaalagan<br>9003680766
+
+</div>
+<br><br>
+
+
+<div id="cent">
+
+pranitha <br> 9843011288<br>
+Paul Prakash - 9578187125 <br>
+
+Aswath - 9952163350<br>
+
+Maragatha Priya - 9789801938<br>
+
+Ramya - 9597261563<br>
+
+Divya - 9944944117<br>
+
+Dheebiga - 9787709836<br>
+
+Roophini - 9659318025
+
+</div>
+
+
+
+</div>

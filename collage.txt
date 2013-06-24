@@ -1,0 +1,69 @@
+
+
+<?php
+include("sess.txt");
+?>
+<?php
+
+if(!(isset($_GET['click'])))
+{
+echo '
+<div id="homepage">
+<div id="t_eventname">
+<h1>Craftz</h1>';
+
+include("craftzlist.txt");
+
+echo '
+</div>';
+}
+?>
+
+<div id="t_eventdetails">
+
+<div id="t_ename_m">
+<h1>Collage</h1>
+</div>
+
+<br>
+<br>
+<div id="t_eimage">
+<?php
+include("crosscollage.txt");
+?>
+</div>
+
+<div id="t_etabs">
+
+<ul>
+<li ><a href="collage/home.txt" rel='det' id="det" class="deta">Home</a></li>
+<li><a href="collage/rules.txt" rel='det' id="det" class="detb">Rules</a></li>
+<li><a href="collage/materials.txt" rel='det' id="det" class="detc">Materials</a></li>
+<li><a href="collage/what.txt" rel='det' id="det" class="detd">What Is This</a></li>
+<li><a href="collage/contact.txt" rel='det' id="det" class="dete">Contact</a></li>
+
+
+
+
+
+</ul>
+
+
+</div>
+
+
+<div id="t_edetails">
+<?php include("collage/home.txt"); ?>
+</div>
+
+</div>
+
+<!-- event detais ends-->
+<?php
+
+if(!(isset($_GET['click'])))
+{
+echo '
+</div>
+<!-- homepage ends-->';
+} ?>

@@ -1,0 +1,12 @@
+<h2>Previous sponsors</h2>
+
+<img src="images/vasan-eye-car.jpg" draggable="false" />
+
+
+<img src="images/pepsi.jpg" draggable="false" />
+
+
+<img src="images/ongc.jpg" draggable="false" />
+
+
+<img src="images/airtel.jpg" draggable="false" />

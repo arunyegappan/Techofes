@@ -1,0 +1,43 @@
+<br>
+<div id="side">
+<div class="seltheme">
+<h2>Select a theme </h2>
+<?php
+
+include("selthemeclick.txt");
+
+?>
+
+</div>
+<br>
+<br>
+
+<br>
+
+<?php
+
+if($_SESSION['click']=="no")
+{
+include("enable.txt");
+}
+if($_SESSION['click']=="click")
+{
+include("disable.txt");
+}
+
+?>
+
+<br>
+
+<div class="sidelink">
+<a href="map.php" title="click to see the map">Map</a>
+</div>
+
+<br>
+
+
+
+
+
+</div>
+<!--side ends -->

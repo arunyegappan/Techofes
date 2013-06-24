@@ -1,0 +1,68 @@
+<?php
+include("sess.txt");
+?>
+
+
+<?php
+
+if(!(isset($_GET['click'])))
+{
+echo '
+<div id="homepage">
+<div id="t_eventname">
+<h1>Talking Tom</h1>';
+
+include("talkingtomlist.txt");
+
+echo '
+</div>';
+}
+?>
+
+<div id="t_eventdetails">
+
+<div id="t_ename_m">
+<h1>Jam</h1>
+</div>
+
+<br><br>
+<div id="t_eimage">
+<?php
+include("crossjam.txt");
+?>
+</div>
+
+<div id="t_etabs">
+
+<ul>
+<li ><a href="jam/home.txt" rel='det' id="det" class="deta">Home</a></li>
+<li><a href="jam/rules.txt" rel='det' id="det" class="detb">Rules</a></li>
+<li><a href="jam/faq.txt" rel='det' id="det" class="detc">FAQ</a></li>
+<li><a href="jam/warning.txt" rel='det' id="det" class="detd">Warnings</a></li>
+<li><a href="jam/contact.txt" rel='det' id="det" class="dete">Contact</a></li>
+
+
+
+
+
+</ul>
+
+
+</div>
+
+
+<div id="t_edetails">
+<?php include("jam/home.txt"); ?>
+</div>
+
+</div>
+
+<!-- event detais ends-->
+<?php
+
+if(!(isset($_GET['click'])))
+{
+echo '
+</div>
+<!-- homepage ends-->';
+} ?>

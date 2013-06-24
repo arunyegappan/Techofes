@@ -1,0 +1,8 @@
+<ul>
+<li>Each team can consists of minimum 4 members to a maximum of 6 members.</li>
+<li>The event basically, Initially , Logically , Finally consists of a single round .</li>
+<li>You will be given a product name on spot .You to advertise it for selling , using a skit.</li>
+<li>Use of abusive language is allowed unless it doesn't affect anyone's feelings.</li>
+<li>Teams are expected to perform in the allotted time slots.</li>
+<li>Judges decision is final and binding.</li>
+<ul>

@@ -1,0 +1,43 @@
+<div id="container">
+
+<div id="outerblock">
+<div id="innerblock">
+
+
+<div id="slideshow">
+<div>
+<ul>
+<li><img src="images/im4.jpg" draggable="false"/>
+
+
+</li>
+<li><img src="images/im3.jpg" draggable="false"/>
+
+
+</li>
+<li><img src="images/im2.jpg" draggable="false"/>
+
+
+</li>
+<li><img src="images/im1.jpg" draggable="false"/>
+
+</li>
+
+</ul>
+</div>
+</div>
+<span id="ribbon-left"></span>
+
+
+</div>
+
+
+
+<div id="frame">
+</div>
+
+
+
+</div>
+
+</div>

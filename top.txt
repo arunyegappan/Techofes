@@ -1,0 +1,68 @@
+<div id="t_whole">
+
+
+<div class="t_maintop">
+<?php
+
+if($_SESSION['theme']=="third")
+{
+include("halmov.txt");
+}
+
+
+if($_SESSION['theme']=="first")
+{
+include("litemov.txt");
+}
+
+if($_SESSION['theme']=="second")
+{
+include("jeanmov.txt");
+}
+?>
+	
+<div id="background">
+
+<div class="techholder">
+<div class="t_leftmenu">
+<ul>
+
+<li><a href="home.php"  id="arun" class="linka">HOME</a></li><li><a href="about.php" id="arun" rel='tab' class="linkb">ABOUT US</a></li><li><a href="sponsors.php" id="arun" rel='tab' class="linkc">SPONSORS</a></li><li><a href="workshop.php" id="arun" rel="tab" class="linkd">GALLERY</a></li><li><a href="workshop.php" rel="tab" id="arun" rel='tab' class="linke">WORKSHOPS</a></li><li><a href="contact.php"  id="arun" rel='tab' class="linkf">CONTACTS</a></li>
+
+</ul>
+</div>
+
+<div id="t_eventtabs">
+
+<a href="hipsdontlie.php" id="saas" rel='tab' class="icona">DANCE </a>
+<a href="rhythmz.php" id="saas" rel='tab' class="iconb">RHYTHMZ </a>
+
+<a href="talenttreasure.php" id="saas" rel='tab' class="iconc">TREASURE </a>
+
+<a href="quizit.php" id="saas" rel='tab' class="icond">QUIZ </a>
+
+<a href="artistry.php" id="saas" rel='tab' class="icone">ARTZ </a>
+
+<a href="craftz.php" id="saas" rel='tab' class="iconf">CRAFTY </a>
+<a href="thriller.php" id="saas" rel='tab' class="icong">THRILLER </a>
+<a href="funmania.php" id="saas" rel='tab' class="iconh">FUN</a>
+<a href="playstore.php" id="saas" rel='tab' class="iconi">PLAY STORE </a>
+<a href="talkingtom.php" id="saas" rel='tab' class="iconj">TALKING  </a>
+<a href="writerscorner.php" id="saas" rel='tab' class="iconk">LITERARY  </a>
+
+<a href="online.php" id="saas" rel='tab' class="iconl">ONLINE EVENTS  </a>
+
+</div>
+<!-- eventtabs ends-->
+
+
+
+</div>
+<!-- techholder ends-->
+
+</div>
+<!-- background ends-->
+
+</div>
+
+<!-- main top ends-->

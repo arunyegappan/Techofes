@@ -1,0 +1,24 @@
+<div id="heading">
+
+<h1>Human Resource Team</h1>
+
+<div id="cent">
+<h3>Core Head</h3>
+Praveen <br>8012928703<br> hr@techofes.org
+</div>
+<br>
+<br>
+<div id="lef">
+
+Dinesh Kumar <br> 9659929988
+</div>
+
+<div id="rig">
+
+Prithvi <br> 
+
+</div>
+
+
+
+</div>

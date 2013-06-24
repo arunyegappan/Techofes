@@ -1,0 +1,8 @@
+<ul>
+<li>Can i participate in group?<br>
+     No. Only individuals.</li>
+<li>Can i bring any shape for my carving?<br>
+         Not allowed.</li>
+<li>Can I use 45 mins to carve?<br>
+        Yes. Sure, but maximum time will be 1 hr. no extra time will be given.</li>
+		</ul>

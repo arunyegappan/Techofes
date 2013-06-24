@@ -1,0 +1,39 @@
+<div id="side">
+
+<form name="form1"> 
+<select name="sem" onchange="change()">
+<option value="">Select a Theme:</option>
+<option value="first">Halloween</option>
+<option value="second">Boys</option>
+
+</select>
+</form>
+<br>
+
+<div class="seltheme">
+<img src="images/htheme.jpg" onclick="change('first')" title="click to change theme" height="40" width="40" draggbale="false"></a>
+
+<img src="images/htheme.jpg" onclick="change('second')" height="40" width="40" draggbale="false"/>
+</div>
+
+<br>
+<br>
+<br>
+<?php
+
+if($_SESSION['click']=="no")
+{
+include("enable.txt");
+}
+if($_SESSION['click']=="click")
+{
+include("disable.txt");
+}
+
+?>
+
+<br>
+
+
+</div>
+<!--side ends -->

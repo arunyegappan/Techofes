@@ -1,0 +1,11 @@
+<?php
+include("sess.txt");
+include("bgsess.txt");
+?>	
+<ul>
+<li ><a href="solosinging.php" rel='eve' id="eve" class="evea">Solo Singing</a></li>
+<li><a href="lightmusic.php" rel='eve' id="eve" class="eveb">Light Music</a></li>
+<li><a href="westernmusic.php" rel='eve' id="eve" class="evec">Western Music</a></li>
+<li><a href="soloinstrumental.php" rel='eve' id="eve" class="eved">Solo Instrumental</a></li>
+</ul>
+

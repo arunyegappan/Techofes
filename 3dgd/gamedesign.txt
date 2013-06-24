@@ -1,0 +1,5 @@
+1. 3D game designing comprises of modeling, texturing, rigging, lighting, animation and scripting.<br>
+2. Learn the aspects of game development from industry experts.<br>
+3. Get hands - on practice with latest industry software and develop your own game project.<br>
+4. Work with popular industry Software/tools such as Autodesk Maya and unity 3D. <br>
+

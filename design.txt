@@ -1,0 +1,42 @@
+<div id="heading">
+
+<h1>Design Team</h1>
+
+<div id="cent">
+<h3>Core Head</h3>
+Madhi Vanan <br> 9943226111 <br> design@techofes.org
+</div>
+<br>
+<br>
+<div id="lef">
+
+Sridhar <br> 9500789354
+</div>
+
+<div id="rig">
+
+Gunavelan <br> 9600099926
+
+</div>
+<br><br>
+<div id="cent">
+
+Vengatesh <br> 8098397078
+</div>
+<br>
+<br>
+<div id="lef">
+
+Shajahan <br> 9543496062
+</div>
+
+<div id="rig">
+
+Kesav <br> 9600099926
+
+</div>
+
+
+
+
+</div>

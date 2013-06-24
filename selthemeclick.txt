@@ -1,0 +1,7 @@
+<img src="images/htheme.jpg" onclick="change('third')" draggable="false" title="click to change theme" height="35" width="35" draggbale="false" />
+
+<img src="images/htheme.jpg" onclick="change('fourth')" draggable="false" title="click to change theme" height="35" width="35" draggbale="false"/>
+<img src="images/htheme.jpg" onclick="change('first')" draggable="false" title="click to change theme" height="35" width="35" draggbale="false" />
+
+<img src="images/htheme.jpg" onclick="change('second')" draggable="false" title="click to change theme" height="35" width="35" draggbale="false"/>
+

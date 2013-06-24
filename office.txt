@@ -1,0 +1,50 @@
+<div id="heading">
+
+<h1>Office Bearers</h1>
+
+<div id="cent">
+<h3>President</h3>
+N.vignesh - 9489100127
+</div>
+<br>
+
+<div id="lef">
+<h3>Vice President</h3>
+Jevendiran - 9789473076
+</div>
+
+<div id="rig">
+<h3>Lady Vice President</h3>
+Anjali - 9566959130
+
+</div>
+<br>
+<div id="cent">
+<h3>Cultural Secratary</h3>
+Imtiaz Ahmad - 
+</div>
+<br>
+
+<div id="lef">
+<h3>Assistant Cultural Secratary</h3>
+Lingesh Kumar - 9791100364
+</div>
+
+<div id="rig">
+<h3>General secrataty</h3>
+Mary Veronica
+
+</div>
+
+<br>
+<br>
+
+<div id="cent">
+<h3>Joint Secratary</h3>
+Srivatsa Srinivasan 9444568861
+</div>
+
+
+
+
+</div>

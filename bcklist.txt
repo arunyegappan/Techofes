@@ -1,0 +1,28 @@
+<?php
+include("sess.txt");
+?>	
+<?php
+
+if($_SESSION['theme']=="third")
+{
+include("halmovin.txt");
+}
+
+
+if($_SESSION['theme']=="first")
+{
+include("litemovin.txt");
+}
+?>
+
+<ul>
+<li ><a href="mrandmstechofes.php" rel='eve' id="eve" class="evea">Mr and Ms Techofes</a></li>
+<li><a href="varietyshow.php" rel='eve' id="eve" class="eveb">Variety Show</a></li>
+<li><a href="fashionshow.php" rel='eve' id="eve" class="evec">Fashion Show</a></li>
+<li><a href="playskit.php" rel='eve' id="eve" class="eved">Playskit</a></li>
+<li><a href="adact.php" rel='eve' id="eve" class="evee">Adact</a></li>
+<li><a href="shortfilm.php" rel='eve' id="eve" class="evef">Short Film</a></li>
+</ul>
+
+ 
+  

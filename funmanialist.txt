@@ -1,0 +1,15 @@
+<?php
+include("sess.txt");
+include("bgsess.txt");
+?>	
+
+<ul>
+<li ><a href="pickup.php" rel='eve' id="eve" class="evea">Pickup Drop Escape</a></li>
+<li><a href="kolaveri.php" rel='eve' id="eve" class="eveb">Y This Kolaveri</a></li>
+<li><a href="nanbaenda.php" rel='eve' id="eve" class="evec">Nanbaenda</a></li>
+<li><a href="telephone.php" rel='eve' id="eve" class="eved">Telephone Charades</a></li>
+<li><a href="hairstyling.php" rel='eve' id="eve" class="evee">Hair Styling</a></li>
+<li><a href="airbanding.php" rel='eve' id="eve" class="evef">Air Banding</a></li>
+</ul>
+
+

@@ -1,0 +1,66 @@
+<script type="text/javascript" language="javascript">
+
+var slideArray = new Array()
+
+slideArray[0]= " ' Over expecting men, Over angry women never will get good life. ' ";
+
+slideArray[1]= "' If I say it once, it is equal to saying it a hundred times. ' ";
+
+slideArray[2]= "' Only the swine comes in herds; The Lion will always come alone. ' ";
+
+slideArray[3]= "' God commands, Arunachalam obeys. ' ";
+
+slideArray[4]= "' When I will arrive, or how I will arrive, nobody will know, but I will arrive when I ought to. '";
+
+function firstSlide()
+
+{
+
+document.getElementById('div_display').innerHTML=slideArray[0];
+
+setTimeout("secondSlide()",5000);
+
+}
+
+
+function secondSlide()
+
+{
+
+document.getElementById('div_display').innerHTML=slideArray[1];
+
+setTimeout("thirdSlide()",5000);
+
+}
+
+
+function thirdSlide()
+
+{
+
+document.getElementById('div_display').innerHTML=slideArray[2];
+
+setTimeout("fourthSlide()",5000);
+
+}
+
+function fourthSlide()
+
+{
+
+document.getElementById('div_display').innerHTML=slideArray[3];
+
+setTimeout("fifthSlide()",5000);
+
+}
+
+function fifthSlide()
+
+{
+
+document.getElementById('div_display').innerHTML=slideArray[4];
+
+setTimeout("firstSlide()",5000);
+
+}
+</script>

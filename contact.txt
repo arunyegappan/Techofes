@@ -1,0 +1,35 @@
+<?php
+include("sess.txt");
+include("bgsess.txt");
+?>	
+
+<div id="homepage">
+
+<div id="t_eventname">
+<h1>Contacts</h1>
+<ul>
+<li ><a href="office.txt" rel='cont' id="con" class="cona">Office Bearers</a></li>
+<li ><a href="chief.txt" rel='cont' id="con" class="conb">Chief Organisers</a></li>
+<li ><a href="eve.txt" rel='cont' id="con" class="conc">Events Team</a></li>
+<li ><a href="web.txt" rel='cont' id="con" class="cond">Web Team</a></li>
+<li ><a href="design.txt" rel='cont' id="con" class="cone">Design Team</a></li>
+<li ><a href="sponsorsteam.txt" rel='cont' id="con" class="conf">Sponsors Team</a></li>
+<li ><a href="workshops.txt" rel='cont' id="con" class="cong">Workshop Team</a></li>
+<li ><a href="finance.txt" rel='cont' id="con" class="conh">Finance Team</a></li>
+<li ><a href="marketing.txt" rel='cont' id="con" class="coni">Marketing Team</a></li>
+<li ><a href="logistics.txt" rel='cont' id="con" class="conj">Logistics Team</a></li>
+<li ><a href="hr.txt" rel='cont' id="con" class="conk">HR Team</a></li>
+<li ><a href="maintanance.txt" rel='cont' id="con" class="conl">Maintanance Team</a></li>
+<li ><a href="hospitality.txt" rel='cont' id="con" class="conm">Hospitality Team</a></li>
+
+</ul>
+
+ 
+ </div>
+ 
+ 
+ <div id="cdetails">
+ 
+ </div>
+ 
+</div>

@@ -1,0 +1,54 @@
+<div id="t_name_s">
+<h1>Get Pumped Up!</h1>
+
+
+</div>
+
+<div id="div_display">
+
+<script type="text/javascript" language="javascript">firstSlide();</script>
+</div>
+
+
+<div id="centralholder">
+
+<div id="slides">
+  <script type="text/javascript" src="scripts/swfobject/swfobject.js"></script>
+        
+    <script type="text/javascript">
+      var flashvars = {};
+      flashvars.cssSource = "piecemaker.css";
+      flashvars.xmlSource = "piecemaker.xml";
+		
+      var params = {};
+      params.play = "true";
+      params.menu = "false";
+      params.scale = "showall";
+      params.wmode = "transparent";
+      params.allowfullscreen = "true";
+      params.allowscriptaccess = "always";
+      params.allownetworking = "all";
+	  
+      swfobject.embedSWF('piecemaker.swf', 'piecemaker', '700', '300', '10', null, flashvars,    
+      params, null);
+    
+    </script>
+<div id="piecemaker">
+      <p>Put your alternative Non Flash content here.</p>
+    </div>
+   
+</div>
+<!-- slides ends-->
+
+<br><br>
+<div id="para1">
+
+The inter-college cultural fest organised by SAAS year after year is given the brand name TECHOFES,considered to be one of the most electrifying fests.This is one of the most awaited inter coll cultural fest. TECHOFES showcases the exquisite talents through the competitons,ranging from literary events to music and drama.Techofes is the India's first ever inter college cultural festival, since 1948 from the India's first ever engg. institution College of Engineering, Guindy, since 1794.
+
+</div>
+
+
+</div>
+<!-- central holer ends-->
+
+

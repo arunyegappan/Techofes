@@ -1,0 +1,47 @@
+
+<div id="heading">
+
+<h1>Workshop Team</h1>
+
+<div id="cent">
+<h3>Core Head</h3>
+A.P.Sampath kumar <br> 9840865972 <br> workshop@techofes.org
+</div>
+<br>
+<br>
+<div id="lef">
+
+S.Karthick kumar<br> 8056316272
+</div>
+
+<div id="rig">
+
+M.Venkatachalam <br> 9566010780
+
+</div>
+<br><br>
+<div id="cent">
+
+B.Abinaya <br> 8870744693
+
+
+</div>
+<br>
+<br>
+
+<div id="lef">
+G.Krithika <br> 9677456211
+</div>
+
+<div id="rig">
+D.Marish Raju <br> 8939069867
+</div>
+<br>
+<br>
+<div id="cent">
+
+k.vignesh<br>9500552400
+
+
+</div>
+</div>

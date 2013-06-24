@@ -1,0 +1,51 @@
+<?php
+include("sess.txt");
+?>
+
+
+<div id="t_eventname">
+<h1>Writer's Corner</h1>
+
+<?php include("writerscornerlist.txt"); ?>
+</div>
+
+<div id="t_eventdetails">
+
+<div id="t_ename_m">
+<h1>Creative Writing</h1>
+</div>
+
+<br><br>
+<div id="t_eimage">
+<?php
+include("crossliterary.txt");
+?>
+
+</div>
+
+<div id="t_etabs">
+
+<ul>
+<li ><a href="creativewriting/home.txt" rel='det' id="det" class="deta">Home</a></li>
+<li><a href="creativewriting/rules.txt" rel='det' id="det" class="detb">Rules</a></li>
+<li><a href="creativewriting/contact.txt" rel='det' id="det" class="detc">Contact</a></li>
+
+
+
+
+
+</ul>
+
+
+
+</div>
+
+
+<div id="t_edetails">
+<?php include("creativewriting/home.txt"); ?>
+</div>
+
+</div>
+
+<!-- event detais ends-->
+

@@ -1,0 +1,77 @@
+<?php
+include("sess.txt");
+?>
+
+<?php
+
+if(!(isset($_GET['click'])))
+{
+echo '
+<div id="homepage">
+<div id="t_eventname">
+<h1>Workshop</h1>';
+
+include("workshoplist.txt");
+
+echo '
+</div>';
+}
+?>
+
+<div id="t_eventdetails">
+
+<div id="t_ename_m">
+<h1>Photography</h1>
+</div>
+<br>
+<br>
+
+<div id="t_eimage">
+
+   
+   <?php
+   include("crossphotographywork.txt");
+   ?>
+ 
+
+
+</div>
+
+	
+
+<div id="t_etabs">
+
+<ul>
+<li ><a href="photographywork/home.txt" rel='det' id="det" class="deta">Home</a></li>
+
+<li ><a href="photographywork/trainers.txt" rel='det' id="det" class="detb">Trainers</a></li>
+<li ><a href="photographywork/highlights.txt" rel='det' id="det" class="detc">Highlights</a></li>
+<li><a href="photographywork/fees.txt" rel='det' id="det" class="detd">Fees</a></li>
+<li><a href="photographywork/contact.txt" rel='det' id="det" class="dete">Contact</a></li>
+
+
+</ul>
+
+
+
+</div>
+
+
+
+
+<div id="t_edetails">
+<?php include("photographywork/home.txt"); ?>
+</div>
+
+
+</div>
+
+<!-- event detais ends-->
+<?php
+
+if(!(isset($_GET['click'])))
+{
+echo '
+</div>
+<!-- homepage ends-->';
+} ?>

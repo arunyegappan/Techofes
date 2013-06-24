@@ -1,0 +1,63 @@
+
+
+
+<?php
+
+if(!($_GET['click']))
+{
+echo '
+<div id="homepage">
+<div id="t_eventname">
+<h1>Hips Dont Lie</h1>';
+
+include("hipsdontlielist.txt");
+
+echo '
+</div>';
+}
+?>
+
+<div id="t_eventdetails">
+
+<div id="t_ename_m">
+<h1>Group Dance</h1>
+</div>
+
+
+<div id="t_eimage">
+<img src="images/adapttunes.png" draggable="false" height="200" width="600" />
+</div>
+
+<div id="t_etabs">
+
+<ul>
+<li ><a href="groupdance/home.txt" rel='det' id="det" class="deta">Home</a></li>
+<li><a href="groupdance/rules.txt" rel='det' id="det" class="detb">Rules</a></li>
+
+<li><a href="groupdance/contact.txt" rel='det' id="det" class="dete">Contact</a></li>
+
+
+
+
+
+</ul>
+
+
+</div>
+
+
+<div id="t_edetails">
+<?php include("groupdance/home.txt"); ?>
+</div>
+
+</div>
+
+<!-- event detais ends-->
+<?php
+
+if(!($_GET['click']))
+{
+echo '
+</div>
+<!-- homepage ends-->';
+} ?>

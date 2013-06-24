@@ -1,0 +1,5 @@
+<ul>
+<li>Three members per team</li>
+<li>The total duration is 2 hours</li>
+<li>Winners will be selected based on the time of submission and their accuracy</li>
+</ul>

@@ -1,0 +1,69 @@
+<?php
+include("sess.txt");
+?>
+
+
+<?php
+
+if(!(isset($_GET['click'])))
+{
+echo '
+<div id="homepage">
+<div id="t_eventname">
+<h1>Thriller</h1>';
+
+include("thrillerlist.txt");
+
+echo '
+</div>';
+}
+?>
+
+<div id="t_eventdetails">
+
+<div id="t_ename_m">
+<h1>Treasure Hunt</h1>
+</div>
+
+<br>
+<br>
+<div id="t_eimage">
+<?php
+include("crosstreasure.txt");
+?>
+</div>
+
+<div id="t_etabs">
+
+<ul>
+<li ><a href="treasurehunt/home.txt" rel='det' id="det" class="deta">Home</a></li>
+<li><a href="treasurehunt/rules.txt" rel='det' id="det" class="detb">Rules</a></li>
+
+
+<li><a href="treasurehunt/contact.txt" rel='det' id="det" class="dete">Contact</a></li>
+
+
+
+
+
+</ul>
+
+
+</div>
+
+
+<div id="t_edetails">
+<?php include("treasurehunt/home.txt"); ?>
+</div>
+
+</div>
+
+<!-- event detais ends-->
+<?php
+
+if(!(isset($_GET['click'])))
+{
+echo '
+</div>
+<!-- homepage ends-->';
+} ?>

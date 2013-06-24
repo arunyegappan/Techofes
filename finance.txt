@@ -1,0 +1,30 @@
+
+<div id="heading">
+
+<h1>Finance Team</h1>
+
+<div id="cent">
+<h3>Core Head</h3>
+Tharunkumar P  <br> 9500911540 <br> finance@techofes.org
+</div>
+<br>
+<br>
+<div id="lef">
+
+Saran Raj N<br>  9790868717
+</div>
+
+<div id="rig">
+
+Vivek S R  <br> 9566721814
+
+</div>
+<br><br>
+<div id="cent">
+
+Venkatesh    <br>    9952035931
+
+</div>
+
+
+</div>

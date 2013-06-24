@@ -1,0 +1,64 @@
+
+
+
+<?php
+
+if(!($_GET['click']))
+{
+echo '
+<div id="homepage">
+<div id="t_eventname">
+<h1>Thriller</h1>';
+
+include("thrillerlist.txt");
+
+echo '
+</div>';
+}
+?>
+
+<div id="t_eventdetails">
+
+<div id="t_ename_m">
+<h1>Reterography</h1>
+</div>
+
+
+<div id="t_eimage">
+<img src="images/adapttunes.png" draggable="false" height="200" width="600" />
+</div>
+
+<div id="t_etabs">
+
+<ul>
+<li ><a href="reterography/home.txt" rel='det' id="det" class="deta">Home</a></li>
+<li><a href="reterography/rules.txt" rel='det' id="det" class="detb">Rules</a></li>
+
+
+<li><a href="reterography/contact.txt" rel='det' id="det" class="dete">Contact</a></li>
+
+
+
+
+
+</ul>
+
+
+</div>
+
+
+<div id="t_edetails">
+<?php include("reterography/home.txt"); ?>
+</div>
+
+</div>
+
+<!-- event detais ends-->
+<?php
+
+if(!($_GET['click']))
+{
+echo '
+</div>
+<!-- homepage ends-->';
+} ?>

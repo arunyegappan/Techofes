@@ -1,0 +1,46 @@
+
+
+<div id="t_eventname">
+<h1>Dancing</h1>
+
+<?php include("informals.txt"); ?>
+</div>
+
+<div id="t_eventdetails">
+
+<div id="t_ename_m">
+<h1>Adapt Tunes</h1>
+</div>
+
+
+<div id="t_eimage">
+<img src="images/adapttunes.png" draggable="false" height="200" width="600" />
+</div>
+
+<div id="t_etabs">
+
+<ul>
+<li ><a href="adapttotunez/home.txt" rel='det' id="det" class="deta">Home</a></li>
+<li><a href="adapttotunez/rules.txt" rel='det' id="det" class="detb">Rules</a></li>
+
+
+<li><a href="adapttotunez/contact.txt" rel='det' id="det" class="dete">Contact</a></li>
+
+
+
+
+
+</ul>
+
+
+</div>
+
+
+<div id="t_edetails">
+<?php include("adapttotunez/home.txt"); ?>
+</div>
+
+</div>
+
+<!-- event detais ends-->
+
